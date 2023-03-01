@@ -14,8 +14,10 @@ This is a MultiPurpose Discord bot that can perform Google Searches and can play
 ## Usage
 This bot responds to certain commands, including:
 
-!rps: Plays Rock Paper Scissors with you!
-!hello: Responds with a greeting message.
-!bs: Allows you to play Battleship
-!google "query" (without quotation marks): Google searches the given query and presents the top 5 results
-You can add additional functionality to the bot by editing the index.js file.
+- !rps: Plays Rock Paper Scissors with you!
+- !hello: Responds with a greeting message.
+- !bs: Allows you to play Battleship
+- !google "query" (without quotation marks): Google searches the given query and presents the top 5 results
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions are welcome!
